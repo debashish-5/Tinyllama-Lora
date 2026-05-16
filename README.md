@@ -1,4 +1,4 @@
-...This README provides a template for fine-tuning the TinyLlama-1.1B-Chat model using QLoRA (Quantized Low-Rank Adaptation) to run on consumer hardware (e.g., T4 GPU). [1, 2]  
+......This README provides a template for fine-tuning the TinyLlama-1.1B-Chat model using QLoRA (Quantized Low-Rank Adaptation) to run on consumer hardware (e.g., T4 GPU). [1, 2]  
 TinyLlama QLoRA Fine-tuning [3]  
 This project fine-tunes the TinyLlama 1.1B parameter model using 4-bit quantization and LoRA adapters. This approach allows training on limited hardware (8GB–16GB VRAM) while maintaining performance. [1, 4]  
 ✨ Features 
