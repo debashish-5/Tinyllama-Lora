@@ -2,14 +2,14 @@ This README provides a template for fine-tuning the TinyLlama-1.1B-Chat model us
 TinyLlama QLoRA Fine-tuning [3]  
 This project fine-tunes the TinyLlama 1.1B parameter model using 4-bit quantization and LoRA adapters. This approach allows training on limited hardware (8GB–16GB VRAM) while maintaining performance. [1, 4]  
 ✨ Features 
-
+...
 • 4-bit Quantization: Uses  for memory efficiency. 
 • LoRA Adapters: Freezes base model and trains only a small subset of parameters. 
 • TinyLlama: 1.1B parameters for fast training and fast inference. 
 • PEFT & Transformers: Utilizes Hugging Face library. [5, 6, 7, 8, 9]  
 
 🛠️ Prerequisites 
-
+ QLoRA
 • Python 3.10+ 
 • GPU with 8GB+ VRAM (T4, A100, RTX 3090/4090) 
 • Hugging Face Account [1]  
