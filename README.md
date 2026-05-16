@@ -9,7 +9,7 @@ This project fine-tunes the TinyLlama 1.1B parameter model using 4-bit quantizat
 • PEFT & Transformers: Utilizes Hugging Face library. [5, 6, 7, 8, 9]  
 
 🛠️ Prerequisites 
-
+ QLoRA
 • Python 3.10+ 
 • GPU with 8GB+ VRAM (T4, A100, RTX 3090/4090) 
 • Hugging Face Account [1]  
