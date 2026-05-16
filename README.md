@@ -2,7 +2,7 @@ This README provides a template for fine-tuning the TinyLlama-1.1B-Chat model us
 TinyLlama QLoRA Fine-tuning [3]  
 This project fine-tunes the TinyLlama 1.1B parameter model using 4-bit quantization and LoRA adapters. This approach allows training on limited hardware (8GB–16GB VRAM) while maintaining performance. [1, 4]  
 ✨ Features 
-...
+...LUCKY STAR
 • 4-bit Quantization: Uses  for memory efficiency. 
 • LoRA Adapters: Freezes base model and trains only a small subset of parameters. 
 • TinyLlama: 1.1B parameters for fast training and fast inference. 
