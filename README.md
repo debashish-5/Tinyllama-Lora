@@ -34,7 +34,7 @@ Load the trained adapter and test the model: [3, 11, 12]
 This README was generated to facilitate efficient TinyLlama fine-tuning. [1]  
 
 AI responses may include mistakes.
-
+Links about releated 
 [1] https://github.com/bhavya-parmar/LLM-Fine-tuning-QLoRA
 [2] https://www.kaggle.com/code/neerajmohan/finetuning-large-language-models-using-qlora
 [3] https://www.kaggle.com/code/gpreda/fine-tune-llama3-with-qlora-for-sentiment-analysis
